@@ -20,7 +20,7 @@ A modern, secure password generator built with React and Vite. This application 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/AyushFanasiya/passwordgenerator.git
+git clone https://github.com/AyushFanasiya/PasswordGenerator.git
 cd passwordgenerator
 ```
 
